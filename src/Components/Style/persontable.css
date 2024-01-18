@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+}
+table, td, th{
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding: 1rem;
+    color: black;
+    text-align: center;
+}
+
+table tr:first-child{
+    background-color: #cf4436;
+}

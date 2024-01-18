@@ -1,0 +1,16 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+    overflow: scroll;
+}
+.switch-link-container{
+    display: flex;
+    gap: 1rem;
+    padding: 1.5rem 1rem;
+}
+.rendered-container{
+    border: 2px solid gray;
+    height: 73vh;
+    width: 90%;
+    margin: auto;
+}

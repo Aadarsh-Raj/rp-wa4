@@ -1,0 +1,19 @@
+.form-container {
+  text-align: center;
+  background-color: #cf4436;
+  color: whitesmoke;
+}
+.input-form {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem 2rem;
+
+}
+.input-form input, .input-form button{
+    width: 100%;
+    text-align: center;
+    outline: none;
+}
+.input-form button{
+    background-color: #e3857d;
+}
